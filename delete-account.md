@@ -54,9 +54,16 @@ to look anything up.
 
 ## Deleting some of your data without deleting your account
 
-You do not need this page for that. Any expense, receipt image or shopping-list
-entry can be deleted inside the app at any time, and it is removed for the whole
-household.
+You can, and you do not have to delete your account to do it.
+
+Any expense, receipt image or shopping-list entry can be deleted inside the app at
+any time, and it is removed for the whole household. That is the fastest route and
+it needs nobody's help.
+
+If you would rather ask, write to **<alekseykpi@gmail.com>** from the address you
+signed in with, and say what you want removed - particular expenses, your receipt
+images, your shopping list, or your whole expense history. It is deleted and
+confirmed back to you, and your account stays as it is.
 
 You can also export everything you can see - profile, expenses, items, list,
 categories and links to your receipt images - from **Settings → Export**, before
