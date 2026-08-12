@@ -44,9 +44,9 @@ Two things you may be looking for, both of which live in the app under
 
 - **Export your data** - one file with your profile and everything you can see in
   your household, including links to your receipt images.
-- **Delete your account** - permanent, and it happens immediately. If you cannot
-  reach the app, email the address above and the deletion is handled the same way
-  and confirmed back to you.
+- **Delete your account** - permanent, and it happens immediately. The steps, what
+  is deleted, and what stays with your household are on
+  **[Delete your Soroka account](delete-account/)**.
 
 ## Privacy
 

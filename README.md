@@ -8,6 +8,7 @@ the published pages.
 | --- | --- | --- |
 | Landing + support | <https://o-babch.github.io/soroka-legal/> | `index.md` here |
 | Privacy policy | <https://o-babch.github.io/soroka-legal/privacy/> | `docs/privacy-policy.md` |
+| Account deletion | <https://o-babch.github.io/soroka-legal/delete-account/> | `delete-account.md` here |
 
 The landing page exists because both stores need it: App Store Connect requires a
 Support URL, and Google's OAuth branding verification requires a homepage that
