@@ -84,6 +84,21 @@ Data is kept while your account exists. Deleting your account removes your
 identity immediately and permanently; a household's data lives as long as the
 household has members.
 
+**Receipt images** are kept for three years from the expense date - the length
+of the EU legal guarantee period - and then removed automatically, unless you
+marked the receipt as kept ("Keep this receipt" in the app), in which case it
+stays as long as the household does. The expense itself, its amounts and items
+are never removed by this; only the image expires. The app states this policy
+in Settings and shows a receipt's removal date before it happens.
+
+**Cases you send for review**: when an AI reading fails, you can choose to send
+that one receipt (its image or pasted text) and the failed result to the
+developer to improve recognition. This happens only after you confirm a dialog
+that says so. A case kept as test data is stored outside your household's
+storage and is therefore not removed by account deletion - the dialog says
+this too. To have a sent case removed, email the address below with the
+approximate date.
+
 ## Children
 
 Soroka is not directed at children under 16 and does not knowingly collect
