@@ -54,3 +54,6 @@ Your receipts and expenses are yours. Everything is stored in the European Union
 nothing is sold, there is no advertising, and nothing is used to train AI models.
 
 The full policy is here: **[Soroka Privacy Policy](privacy/)**.
+
+Using Soroka is covered by the **[Terms of Use](terms/)** - plain language,
+including how the household subscription and the free trial work.
