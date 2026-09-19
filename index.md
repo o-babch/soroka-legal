@@ -7,8 +7,12 @@ title: Soroka
 **A shared expense tracker for couples and families.** Photograph a receipt in
 any language, and both of you know where the money went.
 
-Soroka is published by Oleksii Babchenko, sole developer, Spain, and is built for
-Android and iPhone.
+Soroka is published by Oleksii Babchenko, sole developer, Spain.
+
+## Get Soroka
+
+- **[Get it on Google Play](https://play.google.com/store/apps/details?id=com.soroka.money)** - Android
+- **[Download on the App Store](https://apps.apple.com/app/id6802032903)** - iPhone
 
 ## What it does
 
