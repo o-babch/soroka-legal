@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Soroka Privacy Policy
 
-_Effective 2026-08-08. Published at
+_Effective 2026-10-04. Published at
 <https://o-babch.github.io/soroka-legal/privacy/> (this file is the source; the
 page is regenerated from it)._
 
@@ -22,6 +22,13 @@ account identifier, your display name, and your email address. With Apple you
 can hide your email; Soroka works the same either way and never uses the email
 for anything except showing you which account you are signed in with. No
 password is ever created or stored.
+
+**Without an account.** You can start Soroka without signing in. Soroka then
+creates a guest account on its server: an identifier, a placeholder name and
+your language, with no email and no Google or Apple identity. Everything you
+enter is stored under it, exactly as for any other account. A guest account
+can be deleted in the app (below) and gets an account later at any time, from
+Settings, Account.
 
 **Your household's data.** Expenses you enter or photograph: amounts, dates,
 merchant names, item lines, categories, notes, the receipt image itself, and
@@ -71,7 +78,8 @@ Both live in the app, under Settings:
 
 If you cannot use the app, you can also **request account deletion by email**
 at the contact below; deletion requests are honored the same way and confirmed
-back to you.
+back to you. A guest account has no email on file, so an emailed request cannot
+be tied to it - guests delete in the app, under Settings, Delete account.
 
 You can also ask anything about your data at the contact below - GDPR gives you
 the rights of access, rectification, erasure, restriction, portability, and
@@ -83,6 +91,10 @@ AEPD).
 Data is kept while your account exists. Deleting your account removes your
 identity immediately and permanently; a household's data lives as long as the
 household has members.
+
+A guest account that has not been opened for three months is deleted
+automatically, with its household and receipt images, the same way as if you had
+deleted it yourself. Adding a Google or Apple account removes this limit.
 
 **Receipt images** are kept for three years from the expense date - the length
 of the EU legal guarantee period - and then removed automatically, unless you

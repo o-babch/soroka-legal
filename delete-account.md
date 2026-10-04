@@ -17,6 +17,13 @@ This page is for **Soroka: Shared Expenses**, published by Oleksii Babchenko.
 Deletion happens straight away. There is nothing to wait for and no request to
 approve.
 
+## If you started without an account
+
+A guest account has no email address, so an emailed request cannot be matched to
+it. Delete it in the app, the same way: Settings, then **Delete account**. A guest
+account that has not been opened for three months is also deleted automatically,
+with its household and receipt images.
+
 ## By email, if you cannot open the app
 
 Write to **<alekseykpi@gmail.com>** from the address you signed in with, and ask
